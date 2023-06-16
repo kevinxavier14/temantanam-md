@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TemanTanam</string>
+    <string name="home">Home</string>
+    <string name="menu_camera">Camera</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_home">Home</string>
+    <string name="title_login_page">Welcome to TemanTanam!</string>
+    <string name="message_login_page">Please enter your credentials</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Sign In</string>
+    <string name="register_here">Doesn\'t have an account? <u>Register here!</u></string>
+    <string name="title_register_page">Sign up to TemanTanam!</string>
+    <string name="message_register_page">Fill this form below</string>
+    <string name="name">Name</string>
+    <string name="register">Create Account</string>
+    <string name="register_popup_title">Account Created</string>
+    <string name="register_popup_message">Let\'s dive into TemanTanam!</string>
+    <string name="register_popup_confirm_button">Sign In</string>
+    <string name="identify_plant">Identify Plant</string>
+    <string name="title_camera_page">Find your plant!</string>
+    <string name="message_camera_page">Choose a picture or capture them through your camera</string>
+    <string name="title_update_profile_page">Update your profile!</string>
+    <string name="image_url">Image URL</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="update_profile_popup_title">Profile Updated</string>
+    <string name="update_profile_popup_message">Horay, your account has been updated!</string>
+    <string name="update_profile_popup_confirm_button">Back to Profile</string>
+    <string name="add_collection">Add to Collection</string>
+</resources>
